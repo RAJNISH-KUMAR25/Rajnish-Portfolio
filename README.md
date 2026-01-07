@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Premium SaaS Landing Page
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
@@ -28,3 +29,6 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+=======
+# Rajnish-Portfolio
+>>>>>>> 8f11a42c476e924a5c1d3dc1b500685f26a36367
